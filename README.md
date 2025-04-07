@@ -11,7 +11,7 @@ This repository contains my personal Excel files where I practice and explore va
 
 ## 📁 File Structure
 
-### 📂 Excel Tutorial Folder
+### 📂 Excel Tutorial
 | File Name | Description | Skills Learned |
 |-----------|-------------|----------------|
 | `Excel Basics.xlsx` | Payroll, gradebook, decision chart | Basic formulas, conditional formatting |
@@ -22,14 +22,14 @@ This repository contains my personal Excel files where I practice and explore va
 | `Problem solving with excel spreadsheets.pdf` | Practice exercises | - |
 | `problem solving.xlsx` | Solutions to practice problems | Applied formula usage |
 
-### 🚴 Active Project
+### Active Project
 | File Name | Description | Current Focus |
 |-----------|-------------|---------------|
 | `BikeData.xlsx` | Bike sales/rental analytics | Dashboard creation, advanced PivotTables |
 
 ---
 
-## 🎯 Learning Progress
+## Learning Progress
 
 ✔ **Completed:**
 - Core Excel functions (VLOOKUP, IF, text manipulation)
