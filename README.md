@@ -25,8 +25,8 @@ This repository contains my personal Excel files where I practice and explore va
 ### Full Project
 | File Name | Description | Current Focus |
 |-----------|-------------|---------------|
-| `BikeData.xlsx` | Bike sales | Dashboard creation, PivotTables, Slicers |
-| `SalesTrend_DataProject.xlsx` | Store Sales/Trend Analysis | Time Analysis, Dashboard creation, PivotTables, Timeline slicers|
+| `BikeData.xlsx` | First Full Project/Analyze sales data based on audience background | Dashboard creation, PivotTables, Slicers |
+| `SalesTrend_DataProject.xlsx` | Analyze product sales performance over different time periods | Time Analysis, Dashboard creation, PivotTables, Timeline slicers|
 
 ---
 
