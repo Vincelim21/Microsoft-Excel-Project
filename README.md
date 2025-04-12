@@ -22,10 +22,11 @@ This repository contains my personal Excel files where I practice and explore va
 | `Problem solving with excel spreadsheets.pdf` | Practice exercises | - |
 | `problem solving.xlsx` | Solutions to practice problems | Applied formula usage |
 
-### Active Project
+### Full Project
 | File Name | Description | Current Focus |
 |-----------|-------------|---------------|
 | `BikeData.xlsx` | Bike sales/rental analytics | Dashboard creation, advanced PivotTables |
+| `SalesTrend_DataProject.xlsx` | Store Sales | Time Analysis, Dashboard creation, advanced PivotTables |
 
 ---
 
