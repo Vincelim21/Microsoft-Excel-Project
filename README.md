@@ -25,8 +25,8 @@ This repository contains my personal Excel files where I practice and explore va
 ### Full Project
 | File Name | Description | Current Focus |
 |-----------|-------------|---------------|
-| `BikeData.xlsx` | Bike sales/rental analytics | Dashboard creation, advanced PivotTables |
-| `SalesTrend_DataProject.xlsx` | Store Sales | Time Analysis, Dashboard creation, advanced PivotTables |
+| `BikeData.xlsx` | Bike sales | Dashboard creation, advanced PivotTables |
+| `SalesTrend_DataProject.xlsx` | Store Sales/Trend Analysis | Time Analysis, Dashboard creation, advanced PivotTables |
 
 ---
 
