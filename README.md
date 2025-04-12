@@ -23,7 +23,7 @@ This repository contains my personal Excel files where I practice and explore va
 | `problem solving.xlsx` | Solutions to practice problems | Applied formula usage |
 
 ### Full Project
-| File Name | Description | Current Focus |
+| File Name | Description | Current Skills Focus |
 |-----------|-------------|---------------|
 | `BikeData.xlsx` | First Full Project/Analyze sales data based on audience background | Dashboard creation, PivotTables, Slicers |
 | `SalesTrend_DataProject.xlsx` | Analyze product sales performance over different time periods | Time Analysis, Dashboard creation, PivotTables, Timeline slicers|
