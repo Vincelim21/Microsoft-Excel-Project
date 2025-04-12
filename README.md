@@ -25,8 +25,8 @@ This repository contains my personal Excel files where I practice and explore va
 ### Full Project
 | File Name | Description | Current Focus |
 |-----------|-------------|---------------|
-| `BikeData.xlsx` | Bike sales | Dashboard creation, advanced PivotTables |
-| `SalesTrend_DataProject.xlsx` | Store Sales/Trend Analysis | Time Analysis, Dashboard creation, advanced PivotTables |
+| `BikeData.xlsx` | Bike sales | Dashboard creation, PivotTables, Slicers |
+| `SalesTrend_DataProject.xlsx` | Store Sales/Trend Analysis | Time Analysis, Dashboard creation, PivotTables, Timeline slicers|
 
 ---
 
@@ -36,9 +36,9 @@ This repository contains my personal Excel files where I practice and explore va
 - Core Excel functions (VLOOKUP, IF, text manipulation)
 - Basic data visualization
 - PivotTable creation
+- Basic dashboards
 
 🔧 **Currently Working On:**
-- Interactive dashboards in `BikeData.xlsx`
 - Advanced chart formatting
 
 📚 **Next Goals:**
