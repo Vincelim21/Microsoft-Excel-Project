@@ -1,0 +1,101 @@
+OrderID,Order Date,Customer ID,Product Name,Category,Quantity,Unit Price
+1001,2024-07-15,CUST-A,Laptop,Electronics,1,1200
+1002,2024-07-22,CUST-B,Keyboard,Electronics,2,75
+1003,2024-08-05,CUST-A,Monitor,Electronics,1,300
+1004,2024-08-18,CUST-C,T-Shirt,Clothing,5,25
+1005,2024-09-01,CUST-D,Coffee Mug,Home Goods,8,15
+1006,2024-09-15,CUST-B,Laptop,Electronics,1,1150
+1007,2024-10-01,CUST-E,Jeans,Clothing,3,55
+1008,2024-10-12,CUST-A,Webcam,Electronics,2,50
+1009,2024-10-28,CUST-F,Desk Chair,Furniture,1,250
+1010,2024-11-05,CUST-C,Hoodie,Clothing,4,45
+1011,2024-11-18,CUST-G,Keyboard,Electronics,1,80
+1012,2024-12-02,CUST-D,Coffee Mug,Home Goods,12,15
+1013,2024-12-16,CUST-H,Monitor,Electronics,1,310
+1014,2024-12-27,CUST-E,T-Shirt,Clothing,6,25
+1015,2025-01-10,CUST-A,Laptop Bag,Accessories,3,60
+1016,2025-01-25,CUST-I,Mouse,Electronics,4,20
+1017,2025-02-08,CUST-C,Socks,Clothing,7,10
+1018,2025-02-20,CUST-J,Dinner Plate,Home Goods,6,12
+1019,2025-03-05,CUST-B,Wireless Mouse,Electronics,3,35
+1020,2025-03-19,CUST-K,Sweater,Clothing,2,65
+1021,2024-07-05,CUST-L,Tea Kettle,Home Goods,2,30
+1022,2024-07-29,CUST-E,Office Desk,Furniture,1,350
+1023,2024-08-12,CUST-F,Dress Pants,Clothing,4,70
+1024,2024-08-25,CUST-G,Pillow,Home Goods,3,20
+1025,2024-09-08,CUST-H,External Hard Drive,Electronics,2,90
+1026,2024-09-22,CUST-I,Scarf,Clothing,5,18
+1027,2024-10-05,CUST-J,Cutting Board,Home Goods,3,25
+1028,2024-10-19,CUST-K,Ergonomic Mouse,Electronics,2,45
+1029,2024-11-01,CUST-L,Blouse,Clothing,3,30
+1030,2024-11-15,CUST-M,Picture Frame,Home Goods,7,10
+1031,2024-11-29,CUST-N,Tablet,Electronics,1,300
+1032,2024-12-10,CUST-O,Gloves,Clothing,8,20
+1033,2024-12-22,CUST-P,Bowl Set,Home Goods,2,40
+1034,2025-01-05,CUST-Q,Gaming Mouse,Electronics,2,60
+1035,2025-01-18,CUST-R,Jacket,Clothing,3,80
+1036,2025-02-01,CUST-S,Spatula,Home Goods,9,8
+1037,2025-02-15,CUST-T,Headphones,Electronics,1,150
+1038,2025-02-28,CUST-U,Skirt,Clothing,4,35
+1039,2025-03-12,CUST-V,Mixing Bowls,Home Goods,2,35
+1040,2024-07-10,CUST-W,USB Drive,Electronics,10,12
+1041,2024-07-31,CUST-X,Leggings,Clothing,6,28
+1042,2024-08-15,CUST-Y,Serving Spoon,Home Goods,5,15
+1043,2024-08-28,CUST-Z,Soundbar,Electronics,1,200
+1044,2024-09-10,CUST-AA,Dress,Clothing,2,75
+1045,2024-09-25,CUST-BB,Coasters,Home Goods,12,5
+1046,2024-10-08,CUST-CC,Smartwatch,Electronics,1,250
+1047,2024-10-22,CUST-DD,Belt,Accessories,4,30
+1048,2024-11-08,CUST-EE,Throw Blanket,Home Goods,3,45
+1049,2024-11-22,CUST-FF,Printer,Electronics,1,180
+1050,2024-12-05,CUST-GG,Cap,Accessories,5,15
+1051,2024-12-19,CUST-HH,Vase,Home Goods,2,22
+1052,2025-01-02,CUST-II,Gaming Keyboard,Electronics,1,95
+1053,2025-01-15,CUST-JJ,Wallet,Accessories,3,40
+1054,2025-01-29,CUST-KK,Candle Set,Home Goods,4,30
+1055,2025-02-12,CUST-LL,Portable Speaker,Electronics,2,55
+1056,2025-02-25,CUST-MM,Sunglasses,Accessories,2,70
+1057,2025-03-10,CUST-NN,Mug Set,Home Goods,3,28
+1058,2025-03-22,CUST-OO,Fitness Tracker,Electronics,1,85
+1059,2024-07-18,CUST-PP,Backpack,Accessories,2,50
+1060,2024-08-01,CUST-QQ,Oven Mitts,Home Goods,7,10
+1061,2024-08-22,CUST-RR,Projector,Electronics,1,400
+1062,2024-09-05,CUST-SS,Slippers,Accessories,3,25
+1063,2024-09-18,CUST-TT,Cutting Knives,Home Goods,2,40
+1064,2024-10-15,CUST-UU,Drawing Tablet,Electronics,1,220
+1065,2024-10-29,CUST-VV,Scarf,Accessories,5,20
+1066,2024-11-12,CUST-WW,Napkin Set,Home Goods,4,18
+1067,2024-11-25,CUST-XX,E-reader,Electronics,1,130
+1068,2024-12-08,CUST-YY,Watch,Accessories,3,100
+1069,2024-12-29,CUST-ZZ,Serving Tray,Home Goods,2,32
+1070,2025-01-12,CUST-AAA,Smart Scale,Electronics,1,65
+1071,2025-01-26,CUST-BBB,Phone Case,Accessories,4,25
+1072,2025-02-09,CUST-CCC,Salt and Pepper Shakers,Home Goods,5,15
+1073,2025-02-22,CUST-DDD,VR Headset,Electronics,1,350
+1074,2025-03-08,CUST-EEE,Tote Bag,Accessories,3,35
+1075,2025-03-25,CUST-FFF,Wooden Spoons,Home Goods,8,7
+1076,2024-07-25,CUST-GGG,Action Camera,Electronics,1,280
+1077,2024-08-08,CUST-HHH,Gloves,Accessories,4,22
+1078,2024-08-29,CUST-III,Food Storage Containers,Home Goods,3,45
+1079,2024-09-12,CUST-JJJ,Wireless Charger,Electronics,2,30
+1080,2024-09-29,CUST-KKK,Hat,Accessories,6,28
+1081,2024-10-18,CUST-LLL,Mixing Utensils,Home Goods,4,38
+1082,2024-11-03,CUST-MMM,Smart Bulb,Electronics,7,18
+1083,2024-11-19,CUST-NNN,Tablet Case,Accessories,5,20
+1084,2024-12-09,CUST-OOO,Grater,Home Goods,6,16
+1085,2024-12-23,CUST-PPP,Smart Speaker,Electronics,1,110
+1086,2025-01-08,CUST-QQQ,Keychain,Accessories,8,8
+1087,2025-01-22,CUST-RRR,Measuring Cups,Home Goods,5,25
+1088,2025-02-05,CUST-SSS,Portable Monitor,Electronics,1,190
+1089,2025-02-19,CUST-TTT,Phone Grip,Accessories,7,12
+1090,2025-03-01,CUST-UUU,Can Opener,Home Goods,6,10
+1091,2025-03-15,CUST-VVV,Noise-Canceling Headphones,Electronics,1,180
+1092,2024-07-01,CUST-WWW,Umbrella,Accessories,5,20
+1093,2024-07-28,CUST-XXX,Colander,Home Goods,4,22
+1094,2024-08-10,CUST-YYY,Smart TV,Electronics,1,700
+1095,2024-08-23,CUST-ZZZ,Luggage Tag,Accessories,6,6
+1096,2024-09-03,CUST-AAAA,Peeler,Home Goods,7,9
+1097,2024-09-16,CUST-BBBB,Wireless Earbuds,Electronics,1,120
+1098,2024-10-03,CUST-CCCC,Tablet Stand,Accessories,5,15
+1099,2024-10-25,CUST-DDDD,Whisk,Home Goods,8,11
+1100,2024-11-10,CUST-EEEE,Power Bank,Electronics,2,40

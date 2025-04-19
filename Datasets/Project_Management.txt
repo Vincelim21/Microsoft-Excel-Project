@@ -1,0 +1,51 @@
+Task ID,Task Description,Project Name,Assigned To,Start Date,Due Date,Status
+TSK001,Define Project Scope,Website Redesign,Alice,2025-03-01,2025-03-15,Completed
+TSK002,Create Wireframes,Website Redesign,Bob,2025-03-16,2025-03-30,Completed
+TSK003,Design Mockups,Website Redesign,Alice,2025-04-01,2025-04-15,In Progress
+TSK004,Develop Homepage,Website Redesign,Charlie,2025-04-16,2025-04-30,Not Started
+TSK005,Plan Marketing Campaign,Q2 Marketing,Diana,2025-03-10,2025-03-25,Completed
+TSK006,Create Social Media Content,Q2 Marketing,Evan,2025-03-26,2025-04-10,Completed
+TSK007,Launch Email Blast,Q2 Marketing,Diana,2025-04-11,2025-04-18,In Progress
+TSK008,Setup Ad Spend,Q2 Marketing,Fiona,2025-04-19,2025-04-25,Not Started
+TSK009,Research Competitors,Product Launch,George,2025-04-01,2025-04-10,Completed
+TSK010,Finalize Product Specs,Product Launch,Hannah,2025-04-11,2025-04-20,Not Started
+TSK011,User Testing Phase 1,Product Launch,Ian,2025-04-21,2025-05-05,Not Started
+TSK012,Prepare Onboarding Docs,HR System Update,Julia,2025-03-15,2025-04-05,Completed
+TSK013,Train HR Staff,HR System Update,George,2025-04-06,2025-04-15,In Progress
+TSK014,System Go-Live Notification,HR System Update,Julia,2025-04-16,2025-04-20,Not Started
+TSK015,Write Blog Post,Content Creation,Kevin,2025-03-20,2025-04-05,Completed
+TSK016,Design Infographic,Content Creation,Laura,2025-04-06,2025-04-22,In Progress
+TSK017,Review Article,Content Creation,Michael,2025-04-23,2025-05-07,Not Started
+TSK018,Update Project Plan,Project Alpha,Nancy,2025-03-01,2025-03-10,Completed
+TSK019,Hold Kick-off Meeting,Project Alpha,Oliver,2025-03-11,2025-03-18,Completed
+TSK020,Gather Requirements,Project Alpha,Patricia,2025-03-19,2025-04-02,Completed
+TSK021,Develop Prototype,Project Beta,Quinn,2025-03-25,2025-04-12,Completed
+TSK022,Get Feedback on Prototype,Project Beta,Rachel,2025-04-13,2025-04-25,In Progress
+TSK023,Iterate on Design,Project Beta,Samuel,2025-04-26,2025-05-10,Not Started
+TSK024,Create User Stories,Software Dev,Theresa,2025-04-01,2025-04-18,In Progress
+TSK025,Develop Backend,Software Dev,Victor,2025-04-19,2025-05-03,Not Started
+TSK026,Test API,Software Dev,Wendy,2025-05-04,2025-05-15,Not Started
+TSK027,Prepare Training Materials,New Employee Onboarding,Xavier,2025-03-10,2025-03-25,Completed
+TSK028,Conduct First Day Orientation,New Employee Onboarding,Yvonne,2025-03-26,2025-04-05,Completed
+TSK029,Assign Buddy,New Employee Onboarding,Zachary,2025-04-06,2025-04-16,In Progress
+TSK030,Follow-up Meeting,New Employee Onboarding,Bella,2025-04-17,2025-04-24,Not Started
+TSK031,Finalize Budget,Budget Planning,Caleb,2025-03-01,2025-03-10,Completed
+TSK032,Present to Stakeholders,Budget Planning,Daisy,2025-03-11,2025-03-20,Completed
+TSK033,Get Approval,Budget Planning,Ethan,2025-03-21,2025-04-01,Completed
+TSK034,Implement Budget,Budget Planning,Faith,2025-04-02,2025-04-15,Completed
+TSK035,Monitor Expenses,Budget Planning,Caleb,2025-04-16,2025-05-01,Not Started
+TSK036,Gather Customer Feedback,Product Improvement,Daisy,2025-04-01,2025-04-12,Completed
+TSK037,Analyze Feedback,Product Improvement,Ethan,2025-04-13,2025-04-20,In Progress
+TSK038,Propose Improvements,Product Improvement,Faith,2025-04-21,2025-05-05,Not Started
+TSK039,Document Requirements,New Feature Dev,George,2025-04-08,2025-04-22,In Progress
+TSK040,Design UI/UX,New Feature Dev,Hannah,2025-04-23,2025-05-07,Not Started
+TSK041,Develop Feature,New Feature Dev,Ian,2025-05-08,2025-05-22,Not Started
+TSK042,Create Test Cases,Quality Assurance,Julia,2025-04-15,2025-04-29,In Progress
+TSK043,Execute Tests,Quality Assurance,Kevin,2025-04-30,2025-05-14,Not Started
+TSK044,Report Bugs,Quality Assurance,Laura,2025-05-15,2025-05-29,Not Started
+TSK045,Update Documentation,Knowledge Base,Michael,2025-04-01,2025-04-18,In Progress
+TSK046,Review Articles,Knowledge Base,Nancy,2025-04-19,2025-05-03,Not Started
+TSK047,Publish Updates,Knowledge Base,Oliver,2025-05-04,2025-05-18,Not Started
+TSK048,Plan Next Sprint,Agile Development,Patricia,2025-04-14,2025-04-17,Completed
+TSK049,Conduct Daily Stand-up,Agile Development,Quinn,2025-04-18,2025-04-25,In Progress
+TSK050,Hold Sprint Review,Agile Development,Rachel,2025-04-26,2025-04-29,Not Started

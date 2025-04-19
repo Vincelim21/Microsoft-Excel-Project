@@ -1,0 +1,31 @@
+Employee ID,Department,Job Title,Location
+E001,Sales,Sales Manager,New York
+E002,IT,Sr. Developer,Chicago
+E003,HR,HR Coordinator,New York
+E004,Sales,Account Exec,Chicago
+E005,Marketing,Content Creator,San Fran
+E006,IT,System Architect,Chicago
+E007,HR,Recruiter,New York
+E008,Sales,Account Exec,New York
+E009,IT,Developer,San Fran
+E010,Marketing,Marketing Spec.,San Fran
+E011,Finance,Financial Analyst,New York
+E012,Sales,Sales Representative,Chicago
+E013,IT,Database Admin,Chicago
+E014,HR,HR Manager,New York
+E015,Marketing,Social Media Manager,San Fran
+E016,Finance,Accountant,Chicago
+E017,IT,Network Engineer,San Fran
+E018,Sales,Sales Representative,New York
+E019,Finance,Sr. Financial Analyst,New York
+E020,Marketing,Marketing Coordinator,San Fran
+E021,IT,Lead Developer,Chicago
+E022,HR,Benefits Specialist,New York
+E023,Finance,Financial Planner,Chicago
+E024,Sales,Regional Manager,New York
+E025,IT,Security Engineer,San Fran
+E026,Marketing,SEO Specialist,San Fran
+E027,HR,Training Specialist,New York
+E028,Finance,Payroll Specialist,Chicago
+E029,IT,Help Desk Analyst,San Fran
+E030,Sales,Account Manager,Chicago
