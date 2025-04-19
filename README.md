@@ -17,23 +17,8 @@ My goal is to create a comprehensive record of my progress, which can also serve
 
 ## Getting Started
 
-If you're following along or want to explore, feel free to:
-
-1.  **Clone this repository:** `git clone https://github.com/yourusername/excel-learning-journey.git`
-2.  **Explore the folders:** Dive into the `tutorials` and `projects` directories to see what I've been working on.
-3.  **Check out the resources:** Find additional learning materials in the `resources` folder.
-
-## Contributing (Optional)
-
-While this is primarily a personal learning repository, I'm open to suggestions or corrections if you spot any errors or have better approaches to a problem. Feel free to open an issue or pull request!
-
-## License
-
-[Choose a license, e.g., MIT, Apache 2.0, or no license if you prefer]
-
-## About Me
-
-[Optional: Briefly introduce yourself or your interest in Excel]
+If you're following along or want to explore, feel free to: 
+Explore the folders:** Dive into the `tutorials` and `projects` directories to see what I've been working on.
 
 ---
 
