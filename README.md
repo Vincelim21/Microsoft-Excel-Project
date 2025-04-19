@@ -4,7 +4,7 @@ Welcome to my Microsoft Excel Learning Journey repository! This project is dedic
 
 Here, I'll be sharing:
 
-*   **Tutorials:** Step-by-step guides and notes on concepts I'm learning, from basic data entry and formulas to advanced features like pivot tables, macros, and data analysis.
+*   **Tutorials:** Projects that i've made following tutorials with the concepts I'm learning, from basic data entry and formulas to advanced features like pivot tables, macros, and data analysis.
 *   **Projects:** Practical examples and projects where I apply my Excel skills to various tasks and datasets.
 
 My goal is to create a comprehensive record of my progress, which can also serve as a resource for others beginning their Excel journey.
