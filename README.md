@@ -6,7 +6,6 @@ Here, I'll be sharing:
 
 *   **Tutorials:** Step-by-step guides and notes on concepts I'm learning, from basic data entry and formulas to advanced features like pivot tables, macros, and data analysis.
 *   **Projects:** Practical examples and projects where I apply my Excel skills to various tasks and datasets.
-*   **Resources:** Links to helpful articles, videos, and other resources I find valuable along the way.
 
 My goal is to create a comprehensive record of my progress, which can also serve as a resource for others beginning their Excel journey.
 
